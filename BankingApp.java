@@ -17,7 +17,7 @@ public class BankingApp {
             System.out.println("1. Deposit Money");
             System.out.println("2. Withdraw Money");
             System.out.println("3. Check Balance");
-            System.out.println("4. Exit");
+            System.out.println("4. Exi");
             System.out.print("Enter your choice: ");
             choice = scanner.nextInt();
 
